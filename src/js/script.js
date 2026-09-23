@@ -6,7 +6,7 @@ var qtdestoque = prompt("Digite a quantidade em estoque: ");
 alert("Cadastro realizado! Veja os detalhes no console.");
 alert("Veja os detalhes do vinho no console: ");
 console.log("Ficha do vinho cadastrado: ")
-console.log("Nome do vinho " + nomedovinho);
+console.log("Nome do vinho: " + nomedovinho);
 console.log("Tipo: " + tipodovinho);
 console.log("Safra: " + safradovinho)
 console.log("Quantidade em estoque: " + qtdestoque);
